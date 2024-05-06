@@ -1,0 +1,6 @@
+volume/*
+**.terraform*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
